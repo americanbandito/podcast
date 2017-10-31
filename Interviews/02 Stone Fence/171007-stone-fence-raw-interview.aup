@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="171007-stone-fence-raw-interview_data" version="1.3.0" audacityversion="2.1.3" sel0="0.0000000000" sel1="1168.1436734694" vpos="0" h="0.0000000000" zoom="0.6634457880" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="171007-stone-fence-raw-interview_data" version="1.3.0" audacityversion="2.1.3" sel0="289.8245178906" sel1="289.8245178906" vpos="0" h="264.8933765667" zoom="12.1935853658" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171007_0215.mp3"/>
@@ -1201,4 +1201,15 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
+	<labeltrack name="Label Track" numlabels="9" height="73" minimized="0" isSelected="1">
+		<label t="9.9091258870" t1="9.9091258870" title="Intro"/>
+		<label t="42.6589782396" t1="42.6589782396" title="from Madison?"/>
+		<label t="83.5962936802" t1="83.5962936802" title="Q1: What made you decide to open?"/>
+		<label t="188.2137149290" t1="188.2137149290" title="not same store as it was"/>
+		<label t="206.5840295887" t1="206.5840295887" title="Q1.2 What made you chose this direction?"/>
+		<label t="227.1686232476" t1="227.1686232476" title="Schooling"/>
+		<label t="245.7029585739" t1="245.7029585739" title="q1.3 why decided on local art?"/>
+		<label t="257.6764672361" t1="257.6764672361" title="more hilldale experience towards end"/>
+		<label t="289.8245178906" t1="289.8245178906" title="Q2 What made you take the leap?"/>
+	</labeltrack>
 </project>
