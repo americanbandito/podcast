@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="one-one-thousand-171013_data" version="1.3.0" audacityversion="2.1.3" sel0="396.9017542933" sel1="752.4410982234" vpos="0" h="95.9146151566" zoom="0.7762235494" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="one-one-thousand-171013_data" version="1.3.0" audacityversion="2.1.3" sel0="752.4410982234" sel1="875.2177739105" vpos="0" h="718.6142108973" zoom="3.5665868572" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171013_0217.mp3"/>
@@ -3637,7 +3637,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="7" height="186" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="8" height="186" minimized="0" isSelected="1">
 		<label t="137.5340305585" t1="137.5340305585" title="Intro"/>
 		<label t="149.9509395044" t1="149.9509395044" title="q: intro followup question"/>
 		<label t="170.8770151021" t1="170.8770151021" title="membership org description"/>
@@ -3645,5 +3645,6 @@
 		<label t="269.8423229014" t1="269.8423229014" title="Q1: What made you decide to start your own business?"/>
 		<label t="396.9017542933" t1="396.9017542933" title="Q2: When did you decide to take the leap and start your own business?"/>
 		<label t="752.4410982234" t1="752.4410982234" title="Q3: who long did you give yourself?"/>
+		<label t="875.2177739105" t1="875.2177739105" title="Q4: Brick and mortar?"/>
 	</labeltrack>
 </project>
