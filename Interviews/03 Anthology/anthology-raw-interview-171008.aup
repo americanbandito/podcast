@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="anthology-raw-interview-171008_data" version="1.3.0" audacityversion="2.1.3" sel0="235.5335485925" sel1="831.5893271775" vpos="0" h="0.0000000000" zoom="0.5142990357" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="anthology-raw-interview-171008_data" version="1.3.0" audacityversion="2.1.3" sel0="831.5893271775" sel1="898.0519609038" vpos="0" h="803.6136206848" zoom="4.3949236138" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171008_0216.mp3"/>
@@ -2365,7 +2365,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="8" height="193" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="9" height="193" minimized="0" isSelected="1">
 		<label t="17.2314223360" t1="17.2314223360" title="intro"/>
 		<label t="25.0720564889" t1="25.0720564889" title="Q1: What made you decide to start your own business?"/>
 		<label t="61.8863425400" t1="61.8863425400" title="Q1.2: What made you decide that this was the type of place you wanted to open?"/>
@@ -2374,5 +2374,6 @@
 		<label t="181.6750568757" t1="181.6750568757" title="MJ: felt like you had done research by working there?"/>
 		<label t="235.5335485925" t1="235.5335485925" title="Q2: When were you ready to take the leap and start your own business?"/>
 		<label t="831.5893271775" t1="831.5893271775" title="Q4: why brick and mortar? (skipped q3)"/>
+		<label t="898.0519609038" t1="898.0519609038" title="Q5: Why location and how money (merijoy jumps the gun)"/>
 	</labeltrack>
 </project>
