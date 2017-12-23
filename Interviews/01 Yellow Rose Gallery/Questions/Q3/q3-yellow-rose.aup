@@ -1,0 +1,64 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="q3-yellow-rose_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="46.5328178330" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="170930_0198.mp3"/>
+		<tag name="ALBUM" value="TASCAM DR-03"/>
+	</tags>
+	<wavetrack name="q3-yellow-rose-raw-orig" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1611121">
+				<waveblock start="0">
+					<simpleblockfile filename="e000046a.au" len="262144" min="-0.196777" max="0.227234" rms="0.027523"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00001f1.au" len="262144" min="-0.119995" max="0.119446" rms="0.015275"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00000a5.au" len="262144" min="-0.120483" max="0.10849" rms="0.017396"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e00000ec.au" len="262144" min="-0.071075" max="0.073151" rms="0.010616"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e00005dc.au" len="262144" min="-0.055786" max="0.062408" rms="0.008045"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000d3c.au" len="262144" min="-0.070892" max="0.053406" rms="0.008219"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000929.au" len="38257" min="-0.069794" max="0.084381" rms="0.008849"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="q3-yellow-rose-raw-orig" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1611121">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000ec1.au" len="262144" min="-0.188385" max="0.214233" rms="0.025521"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00001cb.au" len="262144" min="-0.106781" max="0.111938" rms="0.014106"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000d1f.au" len="262144" min="-0.106903" max="0.098389" rms="0.016122"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e00000ab.au" len="262144" min="-0.076385" max="0.069122" rms="0.009761"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e000009c.au" len="262144" min="-0.055176" max="0.060242" rms="0.007578"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000b1b.au" len="262144" min="-0.073914" max="0.057465" rms="0.007748"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00002ee.au" len="38257" min="-0.069794" max="0.076294" rms="0.008185"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
