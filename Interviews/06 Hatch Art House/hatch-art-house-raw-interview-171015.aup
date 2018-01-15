@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="hatch-art-house-raw-interview-171015_data" version="1.3.0" audacityversion="2.1.3" sel0="730.0454194535" sel1="1137.7131273229" vpos="0" h="644.6710670559" zoom="1.7404224531" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="hatch-art-house-raw-interview-171015_data" version="1.3.0" audacityversion="2.1.3" sel0="1137.7131273229" sel1="1603.6336436758" vpos="0" h="880.9747251807" zoom="0.6594967862" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171015_0223.mp3"/>
@@ -2785,7 +2785,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="8" height="158" minimized="0" isSelected="0">
+	<labeltrack name="Label Track" numlabels="9" height="158" minimized="0" isSelected="1">
 		<label t="18.9144164900" t1="18.9144164900" title="Intro"/>
 		<label t="30.7712148867" t1="30.7712148867" title="PreQ: what is the difference between 2 stores?"/>
 		<label t="263.0374263369" t1="263.0374263369" title="Q1: What made you decide to start your own business?"/>
@@ -2794,5 +2794,6 @@
 		<label t="730.0454194535" t1="730.0454194535" title="Q4: brick and mortar"/>
 		<label t="790.3950197125" t1="790.3950197125" title="Q4-2: how location and money?"/>
 		<label t="1137.7131273229" t1="1137.7131273229" title="Q5: source creators"/>
+		<label t="1603.6336436758" t1="1603.6336436758" title="Q6: what risks do you take?"/>
 	</labeltrack>
 </project>
