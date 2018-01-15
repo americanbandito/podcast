@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="booth-121-raw-interview-171014_data" version="1.3.0" audacityversion="2.1.3" sel0="946.0291527691" sel1="1272.3382839540" vpos="0" h="859.1089295022" zoom="0.9800852617" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="booth-121-raw-interview-171014_data" version="1.3.0" audacityversion="2.1.3" sel0="1272.3382839540" sel1="1599.8608093343" vpos="0" h="1197.8549682133" zoom="0.9800852617" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171014_0222.mp3"/>
+		<tag name="ALBUM" value="TASCAM DR-03"/>
 	</tags>
 	<wavetrack name="171014_0222" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
@@ -3037,7 +3037,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="10" height="167" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="11" height="167" minimized="0" isSelected="1">
 		<label t="29.2778887376" t1="29.2778887376" title="Intros"/>
 		<label t="50.7396612624" t1="50.7396612624" title="Q1: What made you decide to start your own business?"/>
 		<label t="141.3362112444" t1="141.3362112444" title="Q1.2: how long ago did you start?"/>
@@ -3048,5 +3048,6 @@
 		<label t="946.0291527691" t1="946.0291527691" title="Q4: Brick and Mortar?"/>
 		<label t="996.8520476528" t1="996.8520476528" title="Q4-2: How location and money?"/>
 		<label t="1272.3382839540" t1="1272.3382839540" title="Q5: source creators"/>
+		<label t="1599.8608093343" t1="1599.8608093343" title="Q6: what risks do you take?"/>
 	</labeltrack>
 </project>
