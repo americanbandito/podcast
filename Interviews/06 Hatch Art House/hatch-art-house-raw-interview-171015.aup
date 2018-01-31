@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="hatch-art-house-raw-interview-171015_data" version="1.3.0" audacityversion="2.1.3" sel0="1137.7131273229" sel1="1603.6336436758" vpos="0" h="880.9747251807" zoom="0.6594967862" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="hatch-art-house-raw-interview-171015_data" version="1.3.0" audacityversion="2.1.2" sel0="1831.1309854265" sel1="1831.1309854265" vpos="0" h="1810.3528326185" zoom="42.2077943168" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171015_0223.mp3"/>
+		<tag name="ALBUM" value="TASCAM DR-03"/>
 	</tags>
 	<wavetrack name="171015_0223" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
@@ -2785,7 +2785,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="9" height="158" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="12" height="158" minimized="0" isSelected="1">
 		<label t="18.9144164900" t1="18.9144164900" title="Intro"/>
 		<label t="30.7712148867" t1="30.7712148867" title="PreQ: what is the difference between 2 stores?"/>
 		<label t="263.0374263369" t1="263.0374263369" title="Q1: What made you decide to start your own business?"/>
@@ -2795,5 +2795,8 @@
 		<label t="790.3950197125" t1="790.3950197125" title="Q4-2: how location and money?"/>
 		<label t="1137.7131273229" t1="1137.7131273229" title="Q5: source creators"/>
 		<label t="1603.6336436758" t1="1603.6336436758" title="Q6: what risks do you take?"/>
+		<label t="1634.9586875062" t1="1634.9586875062" title="Q how do you pay yourself?"/>
+		<label t="1794.1709872733" t1="1794.1709872733" title="Q do you plan for retirement or emergencies?"/>
+		<label t="1831.1309854265" t1="1831.1309854265" title="Q: company story"/>
 	</labeltrack>
 </project>
