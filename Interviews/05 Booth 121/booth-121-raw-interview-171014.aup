@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="booth-121-raw-interview-171014_data" version="1.3.0" audacityversion="2.1.2" sel0="1948.8100419825" sel1="1948.8100419825" vpos="0" h="1601.1362085765" zoom="3.9203410468" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="booth-121-raw-interview-171014_data" version="1.3.0" audacityversion="2.1.2" sel0="1948.8100419825" sel1="2171.4947496593" vpos="0" h="1805.2000873181" zoom="3.9203410468" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="TITLE" value="171014_0222.mp3"/>
 		<tag name="ALBUM" value="TASCAM DR-03"/>
+		<tag name="TITLE" value="171014_0222.mp3"/>
 	</tags>
 	<wavetrack name="171014_0222" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
@@ -3037,7 +3037,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="14" height="167" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="15" height="167" minimized="0" isSelected="1">
 		<label t="29.2778887376" t1="29.2778887376" title="Intros"/>
 		<label t="50.7396612624" t1="50.7396612624" title="Q1: What made you decide to start your own business?"/>
 		<label t="141.3362112444" t1="141.3362112444" title="Q1.2: how long ago did you start?"/>
@@ -3052,5 +3052,6 @@
 		<label t="1657.2537752304" t1="1657.2537752304" title="Qhow do you pay yourself?"/>
 		<label t="1874.0716463934" t1="1874.0716463934" title="Q plan for retirement?"/>
 		<label t="1948.8100419825" t1="1948.8100419825" title="Q: Comapny story"/>
+		<label t="2171.4947496593" t1="2171.4947496593" title="Q how do you market?"/>
 	</labeltrack>
 </project>
