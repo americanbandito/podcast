@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="171007-stone-fence-raw-interview_data" version="1.3.0" audacityversion="2.1.3" sel0="798.2159151709" sel1="826.2222370120" vpos="0" h="764.8586807064" zoom="6.1763043542" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="171007-stone-fence-raw-interview_data" version="1.3.0" audacityversion="2.1.2" sel0="826.2222370120" sel1="926.6058911269" vpos="0" h="764.8586807064" zoom="6.1763043542" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ALBUM" value="TASCAM DR-03"/>
 		<tag name="TITLE" value="171007_0215.mp3"/>
+		<tag name="ALBUM" value="TASCAM DR-03"/>
 	</tags>
 	<wavetrack name="171007_0215" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
@@ -1201,7 +1201,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="17" height="220" minimized="0" isSelected="0">
+	<labeltrack name="Label Track" numlabels="18" height="220" minimized="0" isSelected="1">
 		<label t="9.9091258870" t1="9.9091258870" title="Intro"/>
 		<label t="42.6589782396" t1="42.6589782396" title="from Madison?"/>
 		<label t="83.5962936802" t1="83.5962936802" title="Q1: What made you decide to open?"/>
@@ -1219,5 +1219,6 @@
 		<label t="751.2421747138" t1="751.2421747138" title="Q6-2: how doe you pay yourself?"/>
 		<label t="798.2159151709" t1="798.2159151709" title="Q: how plan for emergencies and retirement?"/>
 		<label t="826.2222370120" t1="826.2222370120" title="Q: How tell company story"/>
+		<label t="926.6058911269" t1="926.6058911269" title="Q: do you market yourself?"/>
 	</labeltrack>
 </project>
